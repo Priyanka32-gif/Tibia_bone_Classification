@@ -1,3 +1,10 @@
-# Ignore data file
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# ignore input data file
 Data_file/
 
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
