@@ -1,4 +1,4 @@
-# Tibia Bone Classification – ML Project (RA in MIA Task 2)
+# Tibia Bone Classification – ML Project 
 This repository contains the code and documentation for a machine learning project focused on classifying tibia bone data using tabular features. 
 
 ### Project Summary
